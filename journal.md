@@ -14,3 +14,15 @@ List of elements that might be useful to mention in a journal entry:
 - Weekly goal recap (this week I'm trying to ...)
 - What did I do (show your work + decisions (pros and cons lists), tests, sketches)
 - What's next (set a goal for next week)
+
+## Week 2
+
+### Project Brief
+
+Familiarizing myself with the project proposal/brief. I took the time to look at all the provided resources (there were quite a bit!).
+
+I especially enjoyed watching the seagull documentary! Baby seagulls are just so cute :D
+
+Here's my personal notes I took afterwards. We decided as a team to take 20 minutes in class to familiarize ourselves with the material so I used that time to brainstorm and jot down all my ideas about the project. I also tried to write down what I believe Elizabeth Miller was expecting of us and what kind of requirements our project should follow.
+
+
