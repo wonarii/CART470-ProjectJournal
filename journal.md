@@ -25,12 +25,12 @@ Familiarizing myself with the project proposal/brief. I took the time to look at
 
 I especially enjoyed watching the seagull documentary! Baby seagulls are just so cute :D
 
-![baby seagull with hearts drawn around it](../assets/babyseagull.png)
+![baby seagull with hearts drawn around it](/assets/babySeagull.png)
 
 Here's my personal notes I took afterwards. We decided as a team to take 20 minutes in class to familiarize ourselves with the material so I used that time to brainstorm and jot down all my ideas about the project. I also tried to write down what I believe Elizabeth Miller was expecting of us and what kind of requirements our project should follow.
 
-![post it with notes about the project](../assets/NotesBrief1.webp)
-![post it with notes about the project 2](../assets/NotesBrief2.webp)
+![post it with notes about the project](/assets/NotesBrief1.webp)
+![post it with notes about the project 2](/assets/NotesBrief2.webp)
 
 ### In Class Team Brainstorm
 
@@ -40,8 +40,8 @@ Together, we made a list of all possible features we could think of. The goal fo
 
 We also noted questions we need to ask.
 
-![Big sheet of paper with messy crayon notes](../assets/brainstorm1.jpg)
-![Big sheet of paper with messy crayon notes 2](../assets/brainstorm2.jpg)
+![Big sheet of paper with messy crayon notes](/assets/brainstorm1.jpg)
+![Big sheet of paper with messy crayon notes 2](/assets/brainstorm2.jpg)
 
 
 Tasks for next week: 
