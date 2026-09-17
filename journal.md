@@ -43,6 +43,8 @@ We also noted questions we need to ask.
 ![Big sheet of paper with messy crayon notes](/assets/brainstorm1.jpg)
 ![Big sheet of paper with messy crayon notes 2](/assets/brainstorm2.jpg)
 
+(I did the stuff in orange and some of the pencil stuff.)
+
 
 Tasks for next week: 
 1. Find images and examples to explain the ideas we discussed in class. (this way, it'll be easier to share the vision with Elizabeth Miller)
