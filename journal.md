@@ -23,6 +23,12 @@ Familiarizing myself with the project proposal/brief. I took the time to look at
 
 I especially enjoyed watching the seagull documentary! Baby seagulls are just so cute :D
 
+![baby seagull with hearts drawn around it](/assets/babyseagull.png)
+
 Here's my personal notes I took afterwards. We decided as a team to take 20 minutes in class to familiarize ourselves with the material so I used that time to brainstorm and jot down all my ideas about the project. I also tried to write down what I believe Elizabeth Miller was expecting of us and what kind of requirements our project should follow.
+
+![post it with notes about the project](/assets/NotesBrief1.webp)
+![post it with notes about the project](../assets/NotesBrief2.webp)
+
 
 
