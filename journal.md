@@ -121,5 +121,14 @@ Tasks we've set for next week:
 Not fun.
 I found a few resources explaining how to do it but it would mostly just be canvas drawing stuff.
 
+Jimmy chose to use React so I'll have to learn that too.
+
+Here are the resources I used:
+[How to use Canvas in React](https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258)
+[How to draw lines on a canvas](https://www.w3schools.com/graphics/canvas_lines.asp)
+
+
+![I drew a line](/assets/drewALine.png)
+
 
 
