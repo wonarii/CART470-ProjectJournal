@@ -90,4 +90,36 @@ Tasks we've set for next week:
 
 We'll be meeting Liz again in 2 weeks to show her our prototype and see what she has to say about it!
 
+## Week 4
+
+### Individual prototype
+
+(not feeling super motivated this week so forgive the not so great quality of the journal entry)
+Figma prototypes.
+Here's mine: [figma link](https://www.figma.com/design/HXR2wBSDPA4UMljTZuEXiT/CART470---Interactive-Map---Arielle?node-id=0-1&t=x8yQwjSnwBa1ajMb-1)
+
+Essentially, I wanted to depict how the connections would appear and how the information is organized. I also thought about adding a season picker so that the map could change depending on the time of the year.
+
+### In-class prototype presentation
+
+In class, we looked at each others prototypes and tried to come up with one united vision. We noted down the main points we wanted to keepin our final prototype here: 
+
+![Features to keep](/assets/week4Notes.webp)
+
+Tasks we've set for next week:
+
+- Junming will work on the united prototype to show Liz.
+- Sherwin is looking at examples for the visuals of our map (watercolour effect)
+- Tianshun is reaching water interactions
+- Jimmy is setting up the website and looking at databases
+- I'm supposed to research how we could draw the connections on web
+
+## Week 5
+
+### Line research
+
+Not fun.
+I found a few resources explaining how to do it but it would mostly just be canvas drawing stuff.
+
+
 
