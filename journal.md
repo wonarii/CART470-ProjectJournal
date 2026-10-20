@@ -130,5 +130,42 @@ Here are the resources I used:
 
 ![I drew a line](/assets/drewALine.png)
 
+### Line research: adding icons?
 
+So, the goal here is to try and recreate the lines seen in the Figma prototype. (the decorated ones with cute little icons following the line)
 
+While I did manage to do something with triangles, the way it was achieved does not seem sustainable for our project (I created a triangle based off of a "center" point and then moved that center point along the line to draw more instances of the triangle.) This will get much more complicated once we incorporate actual icons (that have more than just 3 points) and doesn't seem very good for scalability. If Liz wants to add a new icon shape herself, it's over....
+
+So, the line thing is on-pause for now.
+
+We might revisit it later.
+
+### Components and React
+
+Jimmy made us a nice list of the required components for the website prototype. I had to take the time to learn how React works, but I think I got the hang of it for very simple tasks.
+
+Jimmy installed Tailwind to our project, which makes it easier(?) to write css. I'm not sure if I like it or not, since I have to google every single effect I want to add, which is slowing down my process, and it also makes the code harder to follow in some ways because I'm used to everything being spelled out in long (like in the css files). It does avoid having to constantly swap tabs between css and html though, so that's good at least.
+
+I did 2 components (the easiest ones). 
+I worked on the island information and the zoom buttons.
+The buttons don't actually zoom in yet, but there's a bit of scaffolding set up so once we have a better idea of the layout ofour webpage, I can try and figure that out.
+
+### Prototype Page Layout
+
+Since Jimmy finished all the components, I tried to put together a simple page by copying the layout from our Figma prototype.
+
+I also worked with javascript a little to make a component appear and disappear. 
+
+Note to self: remember to spell your id tags properly
+(I spent 30 minnutes trying to debug when it was a misspelling...)
+
+![Preview of the webpage](/assets/webpagePreview.png)
+
+### Goal for next week
+
+Well, we're meeting Liz on October 21st, so I'm assuming we'll be getting some new direction from that.
+
+If not here are some goals I would like to accomplish for next week:
+
+- Figure out the line thing
+- Figure out the zoom buttons
