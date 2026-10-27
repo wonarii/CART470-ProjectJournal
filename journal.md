@@ -169,3 +169,28 @@ If not here are some goals I would like to accomplish for next week:
 
 - Figure out the line thing
 - Figure out the zoom buttons
+
+## Week 6
+
+### Zoom buttons
+
+So, technically, I sortof did figure out the zoom buttons (I made the image of the island scale bigger or smaller and put bounds on the zoom).
+
+HOWEVER, Tianshun already figured it out and his works on the entire map, with his water animations, so we'll be using his code for that.
+
+So... this week has not been the most productive, its midterm season and our team kinda agreed to chill a bit this time around.
+
+### Midterm Client Meeting
+
+Since our meetings are scheduled every 2 weeks, we just ended up meeting with Liz 1 week early for our midterm.
+
+We showed her what we've done so far and got some good feedback.
+
+Most importantly, she wants the visual style to look more united. Currently, we have mutliple different aesthetics that are clashing with each other. There's a cutesy-minimalistic UI thing, pirate look, more digital/classic web interface and colourful artsy watercolour. 
+(It's kind of all our individual styles but not coordinated at all). We decided to have Sherwin fix this, as Liz seemed to like his vision the best. He'll be making a figma prototype that will give us the visual direction we need.
+
+I'm thinking something that leans more into the artsy watercolour look but also with hints of the pirate.
+
+### Lines
+
+This is still a work in progress. I would like to get it done this Wednesday though. I'll be working from home and hopefully use the entire class time to advance on the website!
