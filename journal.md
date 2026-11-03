@@ -194,3 +194,38 @@ I'm thinking something that leans more into the artsy watercolour look but also 
 ### Lines
 
 This is still a work in progress. I would like to get it done this Wednesday though. I'll be working from home and hopefully use the entire class time to advance on the website!
+
+## Week 7
+
+### Lines (again)
+
+Using the help of Claude (the AI), I got some lines to appear on the website. Essentially, I give a start point, end point and control point. The control point "pulls" on the line to get it to curve.
+
+Then, the code will place a given image every x steps. (The distance between images is given as another parameter called spacing).
+
+![A line of arrows going down a webpage](/assets/lines.png)
+
+Since I'm using AI for this, I'm really trying to make sure I understand what's happening in the code. So I like to leave lots of comments for myself (but also my teammates!) so if ever anything needs to be changed, it is easy to do so.
+
+I also checked and made sure the lines are clickable (they are) and set up a function for that. Currently, it just says an alert, but the goal is to have it open an information panel or lead to the connected island (not sure how we're organizing that yet, I'm not too fond of putting information behind hovers because of mobile).
+
+### Lines Editor
+
+This time I got the built in VSCode AI chat to help because I had no idea how to connect components together.
+It's actually pretty simple now that I look at the code, we can just import a component into another component (I didn't know you could next things, you learn something new everyday I guess). 
+
+The editor's goal is to have Liz be able to add or remove connection lines between islands. Right now, the editor is separate from everything else, so it only serves to visually add lines on the page (and then gets erased when the page is refreshed).
+
+While I did the css for the layout, I think the colours and visual style can change to be better adapted to the Figma prototype Sherwin has made for us. 
+
+![Form to add new lines and multiple lines of arrows on a webpage](/assets/linesEditor.png)
+
+### What's next?
+
+Next up for the lines, I want to add a way to remove connections. For this, maybe we should go for a list display of all the connections?
+
+I think I need to actually sit down and think of the design of this, because I've just been jumping straight into coding without considering how things will mesh together.
+
+We need a back-end design and I need to refocus and identify what it is we actually want Liz to be able to edit and change.
+
+I think my team has come up with most of the individual parts for our website, so next up we just have to start putting things together, linking to the database and adding the styling.
