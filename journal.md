@@ -229,3 +229,11 @@ I think I need to actually sit down and think of the design of this, because I'v
 We need a back-end design and I need to refocus and identify what it is we actually want Liz to be able to edit and change.
 
 I think my team has come up with most of the individual parts for our website, so next up we just have to start putting things together, linking to the database and adding the styling.
+
+## Week 8
+
+### Reevaluating goals
+
+Tianshun did the connections line thing T_T
+
+I think I will focus more on visual design, so making some Figma prototypes and maybe editing the CSS rather than doing code.
