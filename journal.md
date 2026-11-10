@@ -237,3 +237,57 @@ I think my team has come up with most of the individual parts for our website, s
 Tianshun did the connections line thing T_T
 
 I think I will focus more on visual design, so making some Figma prototypes and maybe editing the CSS rather than doing code.
+
+### Monday work session
+
+I've come to the realization I work much better when I'm with other people in regards to group projects. There's lesssecond-guessing myself and wondering if the team would approve because they're literally there to check and approve in real time.
+That's why I decided to schedule an online meeting where our team can work together.
+
+I mostly worked with Sherwin, although Jimmy was there as support too. Tianshun and Junming were unavailable but that's ok since I mostly wanted Sherwin there to ensure I respected his visual guide. Hopefully this way the project looks more cohesive and has one main aesthetic rather than a bunch of separate parts.
+
+### Website Styling
+
+We started off trying to style the website. 
+
+We thought adding more islands in to make the main map page would be a good way to start but unfortunately the Island component and code is very complicated. I gave up after an hour of messing around, I think this is best left to Tianshun (since he made that part, he would know best how to edit it) or Jimmy (our top programmer).
+
+I moved on to work on the Islands List. Together with Sherwin, we styled it up and made it pretty. It unfortunately is not mobile friendly, to do that I think we would have to make it collapsible, but I rather focus on the desktop version for now, as deadlines are approaching and it is looking more and more difficult to get anything done on time.
+
+![List of Islands on a cardboard background](/assets/IslandList.png)
+
+The CSS organization has been a bit frustrating to work with, since we have 3 different files that may or may not be overriding each other. Tailwind is NOT helping the situation, I have to look at multiple places to change one thing, and I always need to look up the tailwind way of css, which slows down the worflow (both me and Sherwin are used to regular CSS). Finally, there's also some inline CSS in the components and HTML that also needs to be reviewed so.... It's taking longer than predicted to style the website.
+
+We then moved on to styling the Preview of the Islands, but we'll have to review that, as Jimmy told us later on that we don't have enough space on the database for 3 images (oops, should have remembered that earlier). 
+
+![Island Preview website component, styled](/assets/IslandPreview.png)
+
+### Figma Design of Admin Page
+
+After considering styling the zoom controls, we decided to move away from coding and turn to designing. In Figma, we designed an admin interface that would allow Liz to add new islands and connections to the database/website. We followed Jimmy's requirements, since he knows best how the database integration would work and how information should be organized.
+
+![Admin main page](/assets/adminDesign2.png)
+
+![Admin Island Edit page](/assets/adminDesign.png)
+
+### Ditching the Connection Lines Editor
+
+We're getting rid of the connection lines editor. It's heavy on the database and seems like more work than necessary. It feels like a useless feature, since this level of control might feel like too much to Liz. I'm not sure editing how the lines curve is that important.
+
+Instead, we'll think of a way to generate the lines automatically (but only in focus view) by dividing up the 270 degrees and just making the lines shoot out from there. 
+
+We also won't be adding any connection lines to the overall map view (with all the islands) because it causes a lot of issues when we want to add new islands.
+
+As deadlines approach, we're cutting out lots of features to try and hopefully reach a workable end result, rather than a mess of unconnected elements.
+
+### What's next
+
+I'd like to try and style the zoom controls. Right now they're in slider form, but I want to try and make them into buttons like my original zooms and Sherwin's design. They should be smaller and out  of the way. This would help the Island Preview breather a little better too.
+
+I'm a bit worried since the looks of the controls are tied with their functionality but hopefully the code will be editable?
+
+We meet with Liz on Wednesday, so she might provide us with some new direction, but I'm thinking we just need to continue to try and assemble everything together.
+
+Jimmy is kinda struggling in his database intergration and looking through everyone else's code so I hope I'll be somewhat able to help out?
+
+Unfortunately, next weekend half our team is doing a game jam so I'm not sure how productive we'll all end up being...
+
