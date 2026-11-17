@@ -291,3 +291,54 @@ Jimmy is kinda struggling in his database intergration and looking through every
 
 Unfortunately, next weekend half our team is doing a game jam so I'm not sure how productive we'll all end up being...
 
+## Week 9
+
+### Meeting with Mak
+
+The team has been made aware all our parts look really disjoint. Mak is right, we should most definitely work on that, which is why we're planning on organizing an additional meeting to review our visual style and make sure everyone is on the same page.
+
+Mak also told us we should think about how this will be displayed in a museum setting. 
+While our team is kinda overwhelmed just trying to have something functional, it probably would be good to come up with some ideas.
+
+I'm just not sure when we'll have the time to do that...
+
+And if we do come up with something, we probably won't be able to incorporate it into our website in time. (It'll have to be more of a pitch or proposal than an implemented final result)
+
+### Meeting with Liz (again)
+
+We met again with Liz to let her know where the project is at. 
+She reallyyy liked the Credits page and its aesthetic, so we'll be trying to emulate that style in the other parts of our website too.
+
+She seems to gravitate more towards mature visuals, with muted colours and fancy serif fonts.
+
+The island placement was a big puzzle for our team. We had no idea how to position islands if they are added afterwards. We suggested a grid, but Liz explained it would be better to have something somewhat geographically accurate (positionally), so that the audience knows where islands are situated in relation to each other.
+
+However, their depiction and size can still remain abstract. It might even be better not to follow real life proportions, since Montreal would take the center spot again (being so big in comparison) and Liz wants to emphasize the importance of all the islands. 
+
+So, we'll be trying to place as many islands into the website as we can, so Liz won't have to go and place them herself later down the line.
+
+Liz also said she wanted to film a behind the scenes video and will be asking us questions about the process. Not sure if I should lie and say everything went great or tell the truth and complain. I feel like there's a nice middle ground somewhere for that.
+
+### The great Figma Meeting
+
+Coordinating the visual style.
+
+We need to make sure the whole team knows where we're going and NOT to stray.
+
+With the limited time left, we can't get distracted by fancy new features, we need to get everything done and make it look cohesive and united.
+
+We agreed on copying the credit's style, while still keeping the paper textures and watercolour effects from our initial design.
+
+![Screenshot of the figma design](/assets/Figma.png)
+
+Jimmy drew all over it to split up the components and organize the different parts. We split the work amongst ourselves from there.
+
+I really hope this meeting was productive and that we'll be able to finish this project with minimal hiccups from now on.
+
+### My assigned tasks
+
+I'll be reworking the islandList component to include the language picker and other nav elements.
+
+I'm also going to create the Island Component and try my best to figure out how best to label the islands without the title being illegible or in the way.
+
+Gamejam went good btw hehe
