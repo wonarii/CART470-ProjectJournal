@@ -342,3 +342,58 @@ I'll be reworking the islandList component to include the language picker and ot
 I'm also going to create the Island Component and try my best to figure out how best to label the islands without the title being illegible or in the way.
 
 Gamejam went good btw hehe
+
+## Week 10
+
+### The Island List Component
+
+I worked a bit with Sherwin since he gave me the assets needed to modify the component according to the figma design.
+
+I copied the nav code to do the links between the different pages(like the credits and intro). I think it looks very nice now! 
+
+I learnt some new things with css transitions and animations, so that the component could slide up and tuck away if the audience pressed the button.
+
+It was a challenge to get it to tuck away nicely, since the size of the component (height) would resize dynamically with the screen, making it very difficult to determine it's final position, when it is tucked away.
+
+After a lot of frustration messing in the CSS, I turned to AI.
+
+Yep. We are at the point in the semester where I can no longer spend 3 hours trying to understand condescending people on stack overflow....
+
+Anyways, AI came up with a simple way to size it dynamically (which frankly, I should have been able to come up with too).
+
+Here's what it looks like now:
+
+![Island list newly styled](/assets/islandList2.png)
+![Island list tucked away](/assets/islandList3.png)
+
+There's still the pop ups to deal with, but I was going to wait to meet up with my team so we can decide whether we keep them or not (since they're not in the figma design).
+
+![Island list's pop up open](/assets/islandList4.png)
+
+### Island Component
+
+Attempted to work off of Sherwin's orginal island component, since the ones used in the currents code was wayyy too complicated for me to understand.
+
+I learnt about states and got the island to toggle between 2 images just like our plan.
+
+I also worked on adding the label with the island name!
+
+![Green watercolor island with the word placeholder across the middle](/assets/placeholderIsland.png)
+
+### Leaflet Map
+
+I have received an example map!!! With helpful comments!!!
+
+So... I actually started out really well, and was able to get a map going, without the markers. Unfortunately, as I kept trying to get the markers to work with my Island Component, react doesn't react well to Leaflet.
+
+After some arguing with AI and some helpful suggestions from a friend, I realized there's a specific version of Leaflet that works with React.
+
+So I got that.
+
+I used AI to incorporate everything, I did my best to leave comments above almost every line to try and teach myself what was happening, but also to hopefully guide Jimmy when he's going to do the database integration.
+
+### Next
+
+We have our meeting with Liz on the 25, so she'll be able to give us some feedback. 
+I think I'll mainly be focusing next week on CSS and maybe some data organization, to make sure everything that needs to go in the database is split up correctly.
+Not sure what Sherwin's progress is like, but if he needs help, I might work on some icons alongside him.
