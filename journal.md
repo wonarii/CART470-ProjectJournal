@@ -363,12 +363,12 @@ Anyways, AI came up with a simple way to size it dynamically (which frankly, I s
 
 Here's what it looks like now:
 
-![Island list newly styled](/assets/islandList2.png)
-![Island list tucked away](/assets/islandList3.png)
+![Island list newly styled](/assets/IslandList2.png)
+![Island list tucked away](/assets/IslandList3.png)
 
 There's still the pop ups to deal with, but I was going to wait to meet up with my team so we can decide whether we keep them or not (since they're not in the figma design).
 
-![Island list's pop up open](/assets/islandList4.png)
+![Island list's pop up open](/assets/IslandList4.png)
 
 ### Island Component
 
